@@ -8,6 +8,7 @@ namespace TestGit_ConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is the new branch");
+            Console.WriteLine("Change:1");
         }
     }
 }
